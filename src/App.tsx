@@ -1,10 +1,10 @@
 import "./App.css";
-import Body from "./body";
+import Body from "./Body";
 import Footer from "./Footer";
-import Frame from "./frame";
-import Home from "./home";
-import Navbar from "./navbar";
-import Press from "./press";
+import Frame from "./Frame";
+import Home from "./Home";
+import Navbar from "./Navbar";
+import Press from "./Press";
 
 function App() {
   return (
