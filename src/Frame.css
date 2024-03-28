@@ -1,0 +1,83 @@
+.frame{
+    /* Frame 1000006574 */
+
+position: absolute;
+width: 938px;
+height: 625px;
+left: 215px;
+top: 1500px;
+
+/* Background color */
+background: #F5F5FA;
+box-shadow: 4px 4px 4px rgba(170, 170, 204, 0.25), 0px 4px 4px rgba(170, 170, 204, 0.5);
+border-radius: 20px;
+
+}
+
+.ellipse{
+    /* Ellipse 1 */
+  
+border-radius: 50%;
+position: absolute;
+width: 193px;
+height: 193px;
+left: 365px;
+top: 150px;
+
+background: #F5F5FA;
+box-shadow: -5px -5px 10px rgba(255, 255, 255, 0.5), 10px 10px 20px rgba(170, 170, 204, 0.5), -10px -10px 20px #FFFFFF;
+
+}
+
+.computer-icon{
+    /* eos-icons:system-ok-outlined */
+
+position: absolute;
+width: 500px;
+height: 500px;
+left: 50px;
+top: 55px;
+
+}
+
+.frame span{
+    /* Thank you reach out to us our teams we get back you! */
+
+position: absolute;
+width: 397px;
+height: 100px;
+left: calc(50% - 397px/2 + 0.5px);
+top: 376px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 50px;
+/* or 167% */
+text-align: center;
+color: #313054;
+}
+
+.get-button{
+    /* Button */
+position: absolute;
+width: 515px;
+height: 52px;
+left: 212px;
+top: 488px;
+
+background: #F4F5FA;
+border: 2px solid rgba(170, 170, 204, 0.5);
+box-shadow: -5px -5px 10px rgba(255, 255, 255, 0.5), 5px 5px 10px rgba(170, 170, 204, 0.25);
+border-radius: 5px;
+
+font-family: Open Sans;
+font-size: 15px;
+font-weight: 600;
+line-height: 20px;
+text-align: center;
+color: #DFB141;
+
+
+}

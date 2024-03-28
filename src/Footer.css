@@ -1,0 +1,402 @@
+.circle-1{
+    /* Vector */
+
+position: absolute;
+width: 938px;
+height: 625px;
+left: 115px;
+top: 2389px;
+color: #4D4D4D;
+
+}
+
+.invent{
+    /* Inventing the perfect solution tailored for you */
+
+position: absolute;
+width: 1000px;
+height: 84px;
+left: 74px;
+top: -170px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 84px;
+/* identical to box height, or 167% */
+text-align: center;
+
+/* Secondary color */
+color: #313054;
+
+}
+
+.dedicate{
+    /* Our dedicated teams has securing new software solution ideals you need for your project. */
+
+position: absolute;
+width: 787px;
+height: 28px;
+left: 188px;
+top: -70px;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 138.89%;
+/* identical to box height, or 28px */
+text-align: center;
+
+/* Secondary color */
+color: #313054;
+
+
+}
+
+.footer-text{
+    position: absolute;
+    top: -50px;
+}
+
+
+
+
+
+
+
+.dent-1{
+    /* Ellipse 2 */
+
+position: absolute;
+width: 93.04px;
+height: 92.91px;
+left: -45px;
+top: 90px;
+border-radius: 50%;
+background: #F5F5FA;
+/* Inner shadow 3 */
+box-shadow: inset -5px -5px 10px rgba(255, 255, 255, 0.5), inset 5px 5px 10px rgba(170, 170, 204, 0.25), inset 10px 10px 20px rgba(170, 170, 204, 0.5), inset -10px -10px 20px #FFFFFF;
+
+}
+.dent-2{
+    /* Ellipse 2 */
+
+position: absolute;
+width: 93.04px;
+height: 92.91px;
+left: 382px;
+top: -30px;
+border-radius: 50%;
+background: #F5F5FA;
+/* Inner shadow 3 */
+box-shadow: inset -5px -5px 10px rgba(255, 255, 255, 0.5), inset 5px 5px 10px rgba(170, 170, 204, 0.25), inset 10px 10px 20px rgba(170, 170, 204, 0.5), inset -10px -10px 20px #FFFFFF;
+
+}
+
+.number-2{
+    position: absolute;
+width: 63.71px;
+height: 84.83px;
+left: 15.17px;
+top: 4.04px;
+
+/* Heading H2 */
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 55px;
+line-height: 84px;
+/* or 152% */
+
+/* Secondary color */
+color: #313054;
+}
+
+
+
+
+
+.dent-3{
+    /* Ellipse 2 */
+
+position: absolute;
+width: 93.04px;
+height: 92.91px;
+left: 722px;
+top: 290px;
+border-radius: 50%;
+background: #F5F5FA;
+/* Inner shadow 3 */
+box-shadow: inset -5px -5px 10px rgba(255, 255, 255, 0.5), inset 5px 5px 10px rgba(170, 170, 204, 0.25), inset 10px 10px 20px rgba(170, 170, 204, 0.5), inset -10px -10px 20px #FFFFFF;
+
+}
+
+.number-3{
+    position: absolute;
+width: 63.71px;
+height: 84.83px;
+left: 15.17px;
+top: 4.04px;
+
+/* Heading H2 */
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 55px;
+line-height: 84px;
+/* or 152% */
+
+/* Secondary color */
+color: #313054;
+}
+
+.circle-1 .dent-1 span{
+    /* 01 */
+
+position: absolute;
+width: 63.71px;
+height: 84.83px;
+left: 15.17px;
+top: 4.04px;
+
+/* Heading H2 */
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 55px;
+line-height: 84px;
+/* or 152% */
+
+/* Secondary color */
+color: #313054;
+}
+
+.smile{
+    /* Vector */
+
+position: absolute;
+left: -2.27%;
+right: 89.14%;
+top: 26.82%;
+bottom: 13.01%;
+/* color: #4D4D4D; */
+
+}
+
+.smile-ball{
+    /* Vector */
+
+position: absolute;
+left: -3%;
+right: 97.06%;
+top: 28.75%;
+bottom: 9.75%;
+
+}
+
+.footer-button-1{
+    /* Button */
+
+
+position: absolute;
+width: 65px;
+height: 65px;
+left: 115px;
+top: 70px;
+border-radius: 50%;
+background: #F5F5FA;
+/* Inner shadow 3 */
+box-shadow: 5px 5px 10px rgba(170, 170, 204, 0.5), -5px -5px 10px #FFFFFF;
+border-radius: 32px;
+
+}
+.id{
+    /* Identify */
+
+position: absolute;
+width: 177px;
+height: 75px;
+left: 75px;
+top: 135px;
+
+/* Heading H3 */
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 44px;
+line-height: 84px;
+/* or 190% */
+text-align: center;
+
+/* Secondary color */
+color: #313054;
+
+
+}
+
+.clearly{
+    /* Clearly define what you need the software to do. */
+
+position: absolute;
+width: 254px;
+height: 56px;
+left: 29px;
+top: 210px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 138.89%;
+/* or 28px */
+text-align: center;
+
+/* Secondary color */
+color: #313054;
+
+
+}
+
+
+
+
+.footer-button-2{
+    /* Button */
+
+
+position: absolute;
+width: 65px;
+height: 65px;
+left: 460px;
+top: 70px;
+border-radius: 50%;
+background: #F5F5FA;
+/* Inner shadow 3 */
+box-shadow: 5px 5px 10px rgba(170, 170, 204, 0.5), -5px -5px 10px #FFFFFF;
+border-radius: 32px;
+
+}
+.id-2{
+    /* Identify */
+
+position: absolute;
+width: 177px;
+height: 75px;
+left: 410px;
+top: 135px;
+
+/* Heading H3 */
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 44px;
+line-height: 84px;
+/* or 190% */
+text-align: center;
+
+/* Secondary color */
+color: #313054;
+
+
+}
+
+.clearly-2{
+    /* Clearly define what you need the software to do. */
+
+position: absolute;
+width: 254px;
+height: 56px;
+left: 370px;
+top: 210px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 138.89%;
+/* or 28px */
+text-align: center;
+
+/* Secondary color */
+color: #313054;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.footer-button-3{
+    /* Button */
+
+
+position: absolute;
+width: 65px;
+height: 65px;
+left: 810px;
+top: 80px;
+border-radius: 50%;
+background: #F5F5FA;
+/* Inner shadow 3 */
+box-shadow: 5px 5px 10px rgba(170, 170, 204, 0.5), -5px -5px 10px #FFFFFF;
+border-radius: 32px;
+
+}
+.id-3{
+    /* Identify */
+
+position: absolute;
+width: 177px;
+height: 75px;
+left: 750px;
+top: 135px;
+
+/* Heading H3 */
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 44px;
+line-height: 84px;
+/* or 190% */
+text-align: center;
+
+/* Secondary color */
+color: #313054;
+
+
+}
+
+.clearly-3{
+    /* Clearly define what you need the software to do. */
+
+position: absolute;
+width: 254px;
+height: 56px;
+left: 720px;
+top: 210px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 138.89%;
+/* or 28px */
+text-align: center;
+
+/* Secondary color */
+color: #313054;
+
+
+}

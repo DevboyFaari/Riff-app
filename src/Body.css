@@ -1,0 +1,49 @@
+.case{
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+background: #F5F5FA;
+box-shadow: inset -5px -5px 10px rgba(255, 255, 255, 0.5), inset 5px 5px 10px rgba(170, 170, 204, 0.25), inset 10px 10px 20px rgba(170, 170, 204, 0.5), inset -10px -10px 20px #FFFFFF;
+border-radius: 20px;
+margin-top: 250px;
+margin-left: 60px;
+width: 1200px;
+height: 550px;
+
+}
+
+.inner-case{
+    /* Rectangle 4 */
+
+position: absolute;
+left: 4.79%;
+right: 5.09%;
+top: 5.13%;
+bottom: 4.77%;
+
+/* Background color */
+background: #F5F5FA;
+/* Shadow 3 */
+box-shadow: -5px -5px 10px rgba(255, 255, 255, 0.5), 5px 5px 10px rgba(170, 170, 204, 0.25), 10px 10px 20px rgba(170, 170, 204, 0.5), -10px -10px 20px #FFFFFF;
+border-radius: 20px;
+
+}
+
+.case .inner-case img{
+    /* young-businessmen-standing-together-holding-laptop-discussing-business */
+
+    position: relative;
+    left: 0.79%;
+    right: 5.09%;
+    top: 1.13%;
+    bottom: 4.77%;
+    width: 1000px;
+    margin-bottom: -90px;
+    object-fit: cover;
+    height: 480px;
+border-radius: 20px;
+
+}
