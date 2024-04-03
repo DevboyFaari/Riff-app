@@ -47,3 +47,29 @@ border-radius: 20px;
 border-radius: 20px;
 
 }
+
+
+/*------------Media queries-------------------*/
+@media screen and (min-width: 360px) {
+    .case {
+      max-width: 70%;
+      height: 200px;
+      flex-wrap: wrap;
+    }
+
+    .case .inner-case img{
+      /* young-businessmen-standing-together-holding-laptop-discussing-business */
+  
+      position: relative;
+      left: 0.79%;
+      right: 5.09%;
+      top: 1.13%;
+      bottom: 4.77%;
+      width: 95%;
+      margin-bottom: -90px;
+      object-fit: cover;
+      height: 200px;
+  border-radius: 20px;
+  
+  }
+  }

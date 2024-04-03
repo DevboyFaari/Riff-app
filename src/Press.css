@@ -387,6 +387,139 @@ font-size: 20px;
 
 }
 
+/* Press.css */
+@media screen and (max-width: 375px) {
+    body{
+        overflow-x: hidden;
+    }
+    .group {
+        max-width: 90%;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    /* .box-1
+    {
+        position: relative;
+      width: 100%;
+      margin-top: -350px;
+      margin-left: -220px;
+    }
+  
+    .box-1 img{
+      width: 80%;
+      height: auto;
+    } */
+    .press-text{
+        position: relative;
+        margin-top: -370px;
+        margin-left: -100px;
+    }
+    .release{
+        font-size: 20px;
+        font-weight:bolder;
+        position: relative;
+        margin-top: -370px;
+        margin-left: -340px;
+    }
+    .stay{
+        width: 300px;
+        font-size: 15px;
+        position: relative;
+        margin-top: -370px;
+        margin-left: -250px;
+    }
+
+    .box-1{
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      width: 100%;
+      margin-top: 300px;
+      
+    }
+    .box-2{
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      width: 100%;
+      margin-top: 500px;
+      left: 70px;
+      
+    }
+    .box-3{
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      width: 100%;
+      margin-top: 500px;
+      left: 70px;
+      
+    }
+  
+  
+    .box-1 img,
+    .box-2 img,
+    .box-3 img {
+      width: 70%;
+      height: auto;
+    }
+
+  
+    .line-1,
+    .line-2,
+    .line-3 {
+      display: flex;
+      align-items: center;
+    }
+  
+    .line-1 a,
+    .line-2 a,
+    .line-3 a {
+      display: flex;
+      align-items: center;
+      margin-top: 10px;
+    }
+  }
+  
+  
+
+
+
+/* @media screen and (max-width: 768px) {
+    .press-text{
+        font-size: 10px;
+        margin-top: 20px;
+    }
+
+    .group{
+        margin-top: 100px;
+    }
+
+    .box-1{
+
+    }
+
+
+
+
+
+
+
+} */
+
+
+
+
+
+
+
+
+
 /* .depth{
     position: absolute;
     width: 360px;

@@ -1,21 +1,3 @@
-// import "./Body.css";
-
-// const Body = () => {
-//   return (
-//     <div>
-//       <div className="case">
-//         <div className="inner-case">
-//           <img src="image1.jpg" alt="woman" />
-//           <img src="image2.jpg" alt="woman" />
-//           <img src="image3.jpg" alt="woman" />
-//         </div>
-//       </div>
-//     </div>
-//   );
-// };
-
-// export default Body;
-
 import { useRef } from "react";
 import "./Body.css";
 
@@ -23,6 +5,7 @@ import "./Body.css";
 import "swiper/swiper-bundle.css";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Navigation, A11y, Autoplay } from "swiper/modules";
+import React from "react";
 
 const Body = () => {
   const progressCircle = useRef<HTMLDivElement | null>(null);

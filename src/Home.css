@@ -9,10 +9,40 @@
 }
  
 
+.envelope{
+    color: #DFB141;
+    width: 15px;
+    height: 15px;
+    margin-top: 7px;
+}
+
+.whatsapp{
+
+        background-color: #25D366;
+        color: white;
+        border-radius: 10px;
+        width: 15px;
+        height: 15px;
+        margin-top: 7px;
+    
+}
 
 
+.arrow{
+        color: #DFB141;
+        width: 15px;
+        height: 15px;
+        margin-top: 7px;
+}
 
-
+.person{
+ 
+        color: #DFB141;
+        width: 15px;
+        height: 15px;
+        margin-top: 7px;
+   
+}
 
 
 
@@ -71,7 +101,7 @@
 
 .rectangle {
     display: flex;
-    width: 1300px;
+    width: 97%;
     height: 71px;
     top: 189px;
     left: 109px;
@@ -131,3 +161,115 @@ margin-top: 20px;
     width: 100px; 
     margin: 20px auto; 
 }
+
+
+
+
+
+@media screen and (min-width: 375px)  {
+   
+    body{
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+        overflow-x: hidden;
+      }
+
+
+    .rectangle {
+        display: flex;
+        justify-content: center;
+      max-width: 90%;
+      overflow-x: hidden;
+      
+    }
+    
+    .rectangle p{
+        display: none;
+        font-family: Open Sans;
+    font-size: 10px;
+    font-weight: 600;
+    line-height: 33px;
+    text-align: left;
+    margin-left: 10px;
+    margin-top: 13px;
+    width: 5px;
+    overflow-x: hidden;
+    
+      }
+    
+
+    .parent {
+        position: absolute;
+        width: 25px;
+        height: 25px;
+        margin-left: 20px;
+        top: 50px;
+        left: 20px;
+    }
+
+    .message {
+        width: 30px; 
+        height: 15px; 
+        margin-left: 50px;
+        margin-top: 20px;
+        background-color: transparent; 
+        border: 2px solid #eaeaee; 
+        border-radius: 5px; 
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        outline: none;
+        cursor: pointer;
+        transition: background-color 0.3s, box-shadow 0.3s;
+        display: flex;
+      justify-content: center; 
+      }
+
+      .envelope{
+        color: #DFB141;
+        width: 10px;
+        height: 10px;
+        margin-top: 3px;
+    }
+
+    .whatsapp{
+        background-color: #25D366;
+        color: white;
+        border-radius: 10px;
+        width: 10px;
+        height: 10px;
+        margin-top: 3px;
+}
+
+.arrow{
+    color: #DFB141;
+    width: 10px;
+    height: 10px;
+    margin-top: 3px;
+
+}
+
+.person{
+    color: #DFB141;
+    width: 10px;
+    height: 10px;
+    margin-top: 3px;
+}
+
+    .phone-no{
+        width: 100px;
+        font-family: sans-serif;
+        font-size: 50px;
+        font-weight: 600;
+        line-height: 33px;
+        text-align: left;
+        margin-left: 100px;
+        margin-top: 13px;
+        width: 100px;
+    }
+
+    .four, .three, .two{
+        margin-left: 10px;
+    }
+
+  }

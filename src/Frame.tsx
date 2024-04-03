@@ -1,3 +1,4 @@
+import React from "react";
 import "./Frame.css";
 import { LuMonitorCheck } from "react-icons/lu";
 
