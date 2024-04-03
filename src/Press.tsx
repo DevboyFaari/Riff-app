@@ -1,4 +1,3 @@
-import React from "react";
 import "./Press.css";
 import { LuArrowRight } from "react-icons/lu";
 

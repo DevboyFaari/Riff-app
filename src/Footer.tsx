@@ -1,4 +1,3 @@
-import React from "react";
 import "./Footer.css";
 import { AiOutlineScan } from "react-icons/ai";
 import { CiSearch } from "react-icons/ci";

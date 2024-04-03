@@ -3,7 +3,6 @@ import { FaEnvelope } from "react-icons/fa";
 import { FaWhatsapp } from "react-icons/fa6";
 import { BsFileEarmarkArrowUpFill } from "react-icons/bs";
 import { BsFillPersonPlusFill } from "react-icons/bs";
-import React from "react";
 
 const Home = () => {
   return (

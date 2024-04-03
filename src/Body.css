@@ -50,9 +50,9 @@ border-radius: 20px;
 
 
 /*------------Media queries-------------------*/
-@media screen and (min-width: 360px) {
+@media screen and (min-width: 360px) and(max-width:667px) {
     .case {
-      max-width: 70%;
+      width: 5px;
       height: 200px;
       flex-wrap: wrap;
     }
@@ -65,7 +65,7 @@ border-radius: 20px;
       right: 5.09%;
       top: 1.13%;
       bottom: 4.77%;
-      width: 95%;
+      width: 50%;
       margin-bottom: -90px;
       object-fit: cover;
       height: 200px;
